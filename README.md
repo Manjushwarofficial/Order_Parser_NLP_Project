@@ -35,7 +35,7 @@ voice-food-ordering-system/
 ├── templates/
 │   └── index.html           # Frontend HTML file (served via Flask)
 └── README.md                # Project documentation
-└── Screenshots/             # This folder contains screenshots
+└── screenshots/             # This folder contains screenshots
 ```
 
 ## Setup Instructions
