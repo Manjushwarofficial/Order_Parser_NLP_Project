@@ -2,6 +2,10 @@
 
 A simple and efficient web application that allows users to place food orders using either voice or text input. The system processes the input and displays the structured order in a user-friendly table format. It is developed using HTML, JavaScript, and Python (Flask).
 
+## Project Screenshot
+
+![Uploading Screenshot 2025-06-08 181003.png…]()
+
 ## Features
 
 - **Voice Recognition Support** - Utilizes the Web Speech API for hands-free ordering
