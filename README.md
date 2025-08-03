@@ -4,7 +4,7 @@ A simple and efficient web application that allows users to place food orders us
 
 ## Project Screenshot
 
-![Uploading Screenshot 2025-06-08 181003.png…]()
+<img width="915" height="432" alt="Screenshot 2025-06-08 181003" src="https://github.com/user-attachments/assets/59da549c-9d42-47f8-b381-e1eb00e30db9" />
 
 ## Features
 
